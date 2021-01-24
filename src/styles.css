@@ -25,6 +25,7 @@ mainheader h1 span {
   font-size: 3rem;
   color: #666;
 }
+
 content {
   grid-column: 2; /* starts and ends at column 2 (already set buy default in layout */
   grid-row: 2; /*  starts and ends at row 2 */
